@@ -6,21 +6,37 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
 
 ## Table of contents
 * PHP Library
-  * [Database ORM](https://github.com/piepin/awesome-list#link)
-  * [Framework](https://github.com/piepin/awesome-list#link)
-  * [HTTP](https://github.com/piepin/awesome-list#link)
-  * [Office](https://github.com/piepin/awesome-list#link)
-  * [PDF Generator](https://github.com/piepin/awesome-list#link)
-  * [Router](https://github.com/piepin/awesome-list#link)
-  * [Template Engine](https://github.com/piepin/awesome-list#link)
+  * [Database ORM](#php-database)
+  * [Framework](#php-framework)
+  * [HTTP](#link)
+  * [Office](#link)
+  * [PDF Generator](#link)
+  * [Router](#php-router)
+  * [Security](#php-sec)
+  * [Template Engine](#link)
 
 * Javascript
-  * [Diagram/Chart](https://github.com/piepin/awesome-list#link)
-  * [Dialog](https://github.com/piepin/awesome-list#link)
-  * [Framework](https://github.com/piepin/awesome-list#link)
-  * [General Library](https://github.com/piepin/awesome-list#link)
-  * [Validation](https://github.com/piepin/awesome-list#link)
+  * [Diagram/Chart](#link)
+  * [Dialog](#link)
+  * [Framework](#link)
+  * [General Library](#link)
+  * [Validation](#link)
 
 * HTML & CSS
-  * [Framework](https://github.com/piepin/awesome-list#link)
+  * [Framework](#link)
+
+
+### <a name="php-database"></a>PHP: Database ORM
+* [Medoo](https://github.com/catfan/Medoo)
+
+### <a name="php-framework"></a>PHP: Framework
+* [CodeIgniter](http://www.codeigniter.com)
+
+### <a name="php-router"></a>PHP: Router
+* [AltoRouter](https://github.com/dannyvankooten/AltoRouter)
+
+### <a name="php-sec"></a>PHP: Security
+* [PHP-JWT](https://github.com/adhocore/php-jwt)
+
+
 
