@@ -1,5 +1,5 @@
 # Awesome List
-A list of awesome libraries, tools, books, third party and other cool resources for software, web development, electronics.
+A list of awesome libraries, tools, books, third party and other cool resources for programming, web development and  electronics.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CONTRIBUTING.md) for details.
@@ -26,6 +26,10 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
   * [Color Picker](#html-color)
   * [Framework](#link)
 
+* Graphics
+  * [Free Download](#graphics-design)
+  * [Icon](#graphics-icon)  
+
 * Server
   * [VPS Hosting](#server-vps)
 
@@ -33,7 +37,6 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
   * [JWT](#general-regex)
   * [JSON](#general-regex)
   * [Regex](#general-regex)
-
 
 ### <a name="php-database"></a>PHP: Database ORM
 * [Medoo](https://github.com/catfan/Medoo)
