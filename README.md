@@ -1,5 +1,5 @@
 # Awesome List
-A list of awesome libraries, tools, books, third party and other cool resources for software and web development.
+A list of awesome libraries, tools, books, third party and other cool resources for software, web development, electronics.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CONTRIBUTING.md) for details.
@@ -23,6 +23,7 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
   * [Validation](#link)
 
 * HTML & CSS
+  * [Color Picker](#html-color)
   * [Framework](#link)
 
 * Server
@@ -46,6 +47,9 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
 ### <a name="php-sec"></a>PHP: Security
 * [PHP-JWT](https://github.com/adhocore/php-jwt)
 
+### <a name="html-color"></a>HTML & CSS: Color Picker
+* [WebFX Color Picker](https://www.webfx.com/web-design/color-picker)
+
 ### <a name="server-vps"></a>Server: VPS Hosting
 * [Digital Ocean](https://m.do.co/c/ed593125d2e7)
-
+* [Vultr](https://www.vultr.com/?ref=8293934-4F)
