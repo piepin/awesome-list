@@ -38,21 +38,21 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
   * [JSON](#general-regex)
   * [Regex](#general-regex)
 
-### <a name="php-database"></a>PHP: Database ORM
+## <a name="php-database"></a>PHP: Database ORM
 * [Medoo](https://github.com/catfan/Medoo)
 
-### <a name="php-framework"></a>PHP: Framework
-* [CodeIgniter](http://www.codeigniter.com)
+## <a name="php-framework"></a>PHP: Framework
+* [CodeIgniter](http://www.codeigniter.com) - Light weight MVC framework for PHP
 
-### <a name="php-router"></a>PHP: Router
+## <a name="php-router"></a>PHP: Router
 * [AltoRouter](https://github.com/dannyvankooten/AltoRouter)
 
-### <a name="php-sec"></a>PHP: Security
+## <a name="php-sec"></a>PHP: Security
 * [PHP-JWT](https://github.com/adhocore/php-jwt)
 
-### <a name="html-color"></a>HTML & CSS: Color Picker
+## <a name="html-color"></a>HTML & CSS: Color Picker
 * [WebFX Color Picker](https://www.webfx.com/web-design/color-picker)
 
-### <a name="server-vps"></a>Server: VPS Hosting
+## <a name="server-vps"></a>Server: VPS Hosting
 * [Digital Ocean](https://m.do.co/c/ed593125d2e7)
 * [Vultr](https://www.vultr.com/?ref=8293934-4F)
