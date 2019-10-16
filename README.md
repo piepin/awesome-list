@@ -25,6 +25,14 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
 * HTML & CSS
   * [Framework](#link)
 
+* Server
+  * [VPS Hosting](#server-vps)
+
+* General
+  * [JWT](#general-regex)
+  * [JSON](#general-regex)
+  * [Regex](#general-regex)
+
 
 ### <a name="php-database"></a>PHP: Database ORM
 * [Medoo](https://github.com/catfan/Medoo)
@@ -38,5 +46,6 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
 ### <a name="php-sec"></a>PHP: Security
 * [PHP-JWT](https://github.com/adhocore/php-jwt)
 
-
+### <a name="server-vps"></a>Server: VPS Hosting
+* [Digital Ocean](https://m.do.co/c/ed593125d2e7)
 
