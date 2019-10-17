@@ -13,9 +13,11 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
   * [PDF Generator](#link)
   * [Router](#php-router)
   * [Security](#php-sec)
+  * [Socket](#php-socket)
   * [Template Engine](#link)
 
 * Javascript
+  * [Build System](#js-build)
   * [Diagram/Chart](#link)
   * [Dialog](#link)
   * [Framework](#link)
@@ -25,6 +27,7 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
 * HTML & CSS
   * [Color Picker](#html-color)
   * [Framework](#link)
+  * [CSS Compiler](#link)
 
 * Graphics
   * [Free Download](#graphics-design)
@@ -49,6 +52,12 @@ Please see [CONTRIBUTING](https://github.com/piepin/awesome-list/blob/master/CON
 
 ## <a name="php-sec"></a>PHP: Security
 * [PHP-JWT](https://github.com/adhocore/php-jwt)
+
+## <a name="php-socket"></a>PHP: Socket
+* [Ratchet](https://github.com/ratchetphp/Ratchet)
+
+## <a name="js-build"></a>Javascript: Build System
+* [Gulp](https://gulpjs.com/)
 
 ## <a name="html-color"></a>HTML & CSS: Color Picker
 * [WebFX Color Picker](https://www.webfx.com/web-design/color-picker)
